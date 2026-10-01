@@ -17,14 +17,24 @@ I'm Zakiya, a B.Tech Computer Science student who loves turning ideas into worki
 
 <br>
 
-## 🛠️ Tech I Use
+## 💻 Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/Java-FFE4C4?style=for-the-badge&logo=openjdk&logoColor=black" />
-  <img src="https://img.shields.io/badge/Spring_Boot-D6F5D6?style=for-the-badge&logo=springboot&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-CFE3FF?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-FFF3B0?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML-FFD6D6?style=for-the-badge&logo=html5&logoColor=black" />
   <img src="https://img.shields.io/badge/CSS-BFD7FF?style=for-the-badge&logo=css3&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-FFF3B0?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-E6E6FA?style=for-the-badge&logo=mysql&logoColor=black" />
+</p>
+
+## 🛠️ Frameworks & Tech
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-D6F5D6?style=for-the-badge&logo=springboot&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-FFDAB9?style=for-the-badge&logo=mysql&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-CFE3FF?style=for-the-badge&logo=docker&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-D6F5F5?style=for-the-badge&logo=tailwindcss&logoColor=black" />
 </p>
 
 ## 🧰 Tools I Use
@@ -42,27 +52,8 @@ I'm Zakiya, a B.Tech Computer Science student who loves turning ideas into worki
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=zakiyakhan1605&show_icons=true&bg_color=FFFFFF&title_color=7A9CE0&icon_color=E8A6C4&text_color=4A5568&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zakiyakhan1605&show_icons=true&hide=contribs&bg_color=FFFFFF&title_color=7A9CE0&icon_color=E8A6C4&text_color=4A5568&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakiyakhan1605&layout=compact&bg_color=FFFFFF&title_color=7A9CE0&text_color=4A5568&hide_border=true" height="160" />
 </p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zakiyakhan1605&bg_color=FFFFFF&color=7A9CE0&line=BFD7FF&point=E8A6C4&area=true&area_color=EAF1FF&hide_border=true" width="100%" />
-
-<br>
-
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BFD7FF?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/zakiya-khatoon-30a823299)
-[![Email](https://img.shields.io/badge/Email-FFD6E8?style=flat-square&logo=gmail&logoColor=black)](mailto:YOUR_EMAIL)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FFD6E8,100:BFD7FF&section=footer" width="100%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zakiyakhan1605&bg_color=FFFFFF&color=7A9CE0&line=BFD7FF&point=E8A6C4&area=true&area_color=EAF1FF&hide_border=true" width="100%" />
-
-<br>
-
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BFD7FF?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/zakiya-khatoon-30a823299?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Email](https://img.shields.io/badge/Email-FFD6E8?style=flat-square&logo=gmail&logoColor=black)](mailto:khatoonzakiya03@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FFD6E8,100:BFD7FF&section=footer" width="100%" />
