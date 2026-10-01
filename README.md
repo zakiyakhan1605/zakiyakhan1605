@@ -16,7 +16,7 @@ I'm Zakiya, a Software Developer and Java Developer who loves turning ideas into
 
 <br>
 
-## 💻 Programming Languages
+## 🛠️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Java-FFE4C4?style=for-the-badge&logo=openjdk&logoColor=black" />
@@ -25,11 +25,7 @@ I'm Zakiya, a Software Developer and Java Developer who loves turning ideas into
   <img src="https://img.shields.io/badge/SQL-E6E6FA?style=for-the-badge&logo=mysql&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML-FFD6D6?style=for-the-badge&logo=html5&logoColor=black" />
   <img src="https://img.shields.io/badge/CSS-BFD7FF?style=for-the-badge&logo=css3&logoColor=black" />
-</p>
-
-## ☕ Java Developer Stack
-
-<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-D6F5F5?style=for-the-badge&logo=tailwindcss&logoColor=black" />
   <img src="https://img.shields.io/badge/Core_Java-FFE4C4?style=for-the-badge&logo=openjdk&logoColor=black" />
   <img src="https://img.shields.io/badge/OOP-FFD6D6?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/Collections-D6F5D6?style=for-the-badge&logoColor=black" />
@@ -41,30 +37,34 @@ I'm Zakiya, a Software Developer and Java Developer who loves turning ideas into
   <img src="https://img.shields.io/badge/REST_APIs-BFD7FF?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/Maven-FFD6E8?style=for-the-badge&logo=apachemaven&logoColor=black" />
   <img src="https://img.shields.io/badge/JUnit-D6F5F5?style=for-the-badge&logo=junit5&logoColor=black" />
-</p>
-
-## 🗄️ Databases
-
-<p>
   <img src="https://img.shields.io/badge/MySQL-FFDAB9?style=for-the-badge&logo=mysql&logoColor=black" />
   <img src="https://img.shields.io/badge/Qdrant-E6E6FA?style=for-the-badge&logoColor=black" />
-</p>
-
-## 🌐 Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-FFD6D6?style=for-the-badge&logo=html5&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS-BFD7FF?style=for-the-badge&logo=css3&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-FFF3B0?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-D6F5F5?style=for-the-badge&logo=tailwindcss&logoColor=black" />
-</p>
-
-## 🧰 Tools & DevOps
-
-<p>
   <img src="https://img.shields.io/badge/Git-FFD6D6?style=for-the-badge&logo=git&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub-E6E6FA?style=for-the-badge&logo=github&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-CFE3FF?style=for-the-badge&logo=docker&logoColor=black" />
   <img src="https://img.shields.io/badge/Kubernetes-D6F5D6?style=for-the-badge&logo=kubernetes&logoColor=black" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-FFE4C4?style=for-the-badge&logo=intellijidea&logoColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FF
+  <img src="https://img.shields.io/badge/Postman-FFDAB9?style=for-the-badge&logo=postman&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jira-CFE3FF?style=for-the-badge&logo=jira&logoColor=black" />
+  <img src="https://img.shields.io/badge/Notion-F0F0F0?style=for-the-badge&logo=notion&logoColor=black" />
+</p>
+
+<br>
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=zakiyakhan1605&show_icons=true&hide=contribs&bg_color=FFFFFF&title_color=7A9CE0&icon_color=E8A6C4&text_color=4A5568&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakiyakhan1605&layout=compact&bg_color=FFFFFF&title_color=7A9CE0&text_color=4A5568&hide_border=true" height="160" />
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zakiyakhan1605&bg_color=FFFFFF&color=7A9CE0&line=BFD7FF&point=E8A6C4&area=true&area_color=EAF1FF&hide_border=true" width="100%" />
+
+<br>
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BFD7FF?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/zakiya-khatoon-30a823299)
+[![Email](https://img.shields.io/badge/Email-FFD6E8?style=flat-square&logo=gmail&logoColor=black)](mailto:YOUR_EMAIL)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FFD6E8,100:BFD7FF&section=footer" width="100%" />
